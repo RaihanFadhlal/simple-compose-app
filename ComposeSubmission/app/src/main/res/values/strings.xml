@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bundesliga Club</string>
+    <string name="search_club">Search a Club</string>
+    <string name="name">Raihan Fadhlal Aziz</string>
+    <string name="email">raihanfadhlal@gmail.com</string>
+    <string name="github">github.com/RaihanFadhlal</string>
+    <string name="about">About Me</string>
+    <string name="my_photo">My Photo</string>
+
+    <string name="nav_main">Club List</string>
+    <string name="nav_about">About</string>
+
+    <string name="unexpected">Unexpected State</string>
+    <string name="back_button">Back Button</string>
+    <string name="stadium_field">Stadium</string>
+    <string name="year_field">Year Founded</string>
+    <string name="coach_field">Coach</string>
+    <string name="desc_field">Description</string>
+    <string name="club_photo">Club Photo</string>
+</resources>
